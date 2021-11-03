@@ -1,0 +1,48 @@
+{
+    "termekek":
+
+[
+    {
+        "nev": "Csodás tájkép",
+        "leiras": "Tükröződő fák egy kis tó partján a Duna mentén.",
+        "ar": 20000,
+        "kep": "img/kep_1.jpg"
+    },
+    {
+        "nev": "Tiszai gát",
+        "leiras": "Poroszló menti Tisza töltés viharos időben.",
+        "ar": 10000,
+        "kep": "img/kep_2.jpg"
+    },
+    {
+        "nev": "Börzsöny",
+        "leiras": "Kilátás a fák mögül a szemközti hegyoldalra. Hollókő.",
+        "ar": 2300,
+        "kep": "img/kep_3.jpg"
+    },
+    {
+        "nev": "Pléska-szikla felé",
+        "leiras": "Úton a Pléska-szikla felé az őszi erdőben.",
+        "ar": 22000,
+        "kep": "img/kep_4.jpeg"
+    },
+    {
+        "nev": "Viadukt",
+        "leiras": "Biatorbágyi viadukt a fák között.",
+        "ar": 2300,
+        "kep": "img/kep_5.webp"
+    },
+    {
+        "nev": "Régi présház",
+        "leiras": "Elhagyott présház Biatorbágy fölött.",
+        "ar": 3000,
+        "kep": "img/kep_6.jpg"
+    },
+    {
+        "nev": "Nyakas-kő",
+        "leiras": "Innnen ugratta Ördög nevű lovát a mélybe Sándor Móricz gróf.",
+        "ar": 23000,
+       "kep": "img/kep_7.jpg"
+    }
+ 
+]}
